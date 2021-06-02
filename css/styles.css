@@ -186,17 +186,6 @@ footer {
   }
 }
 
-@keyframes color-change {
-  0% {
-    fill: #ff0000;
-  }
-  50% {
-    fill: #0019ff;
-  }
-  100% {
-    fill: #00ff2a;
-  }
-}
 
 @keyframes transito {
 	from {
