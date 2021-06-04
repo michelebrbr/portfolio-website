@@ -134,8 +134,7 @@ footer {
   margin-left: 15px;
 }
 
-#grid {
-	display: -ms-grid;
+.grid {
 	display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 20px
