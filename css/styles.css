@@ -135,7 +135,7 @@ footer {
 }
 
 .grid {
-  display: grid;
+  display: block;
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 20px
 }
